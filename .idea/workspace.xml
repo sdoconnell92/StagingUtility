@@ -15,8 +15,8 @@
       <file leaf-file-name="PyInstaller_Run_Script.bat" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyInstaller_Files/PyInstaller_Run_Script.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="127" />
+            <state relative-caret-position="63">
+              <caret line="3" column="335" lean-forward="false" selection-start-line="3" selection-start-column="335" selection-end-line="3" selection-end-column="335" />
               <folding />
             </state>
           </provider>
@@ -228,8 +228,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PyInstaller_Files/PyInstaller_Run_Script.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="127" />
+        <state relative-caret-position="63">
+          <caret line="3" column="335" lean-forward="false" selection-start-line="3" selection-start-column="335" selection-end-line="3" selection-end-column="335" />
           <folding />
         </state>
       </provider>
