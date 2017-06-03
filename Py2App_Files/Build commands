@@ -1,0 +1,3 @@
+py2applet --make-setup --bdist-base=/Users/virt1/Documents/repos/StagingUtility/Py2App_Files/build --dist-dir=/Users/virt1/Documents/repos/StagingUtility/Py2App_Files/dist /Users/virt1/Documents/repos/StagingUtility/nsp_staging_utility/guiapp.py
+
+python setup.py.py2app
